@@ -1,0 +1,1 @@
+# sfguide-ask-questions-to-your-documents-using-rag-with-snowflake-cortex-search
